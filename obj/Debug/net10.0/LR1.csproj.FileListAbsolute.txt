@@ -1,0 +1,15 @@
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/bin/Debug/net10.0/LR1
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/bin/Debug/net10.0/LR1.deps.json
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/bin/Debug/net10.0/LR1.runtimeconfig.json
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/bin/Debug/net10.0/LR1.dll
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/bin/Debug/net10.0/LR1.pdb
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.AssemblyInfoInputs.cache
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.AssemblyInfo.cs
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.csproj.CoreCompileInputs.cache
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.sourcelink.json
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.dll
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/refint/LR1.dll
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.pdb
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/LR1.genruntimeconfig.cache
+/Users/vladislavmaksakov/Desktop/Learning/БПД/LR1/obj/Debug/net10.0/ref/LR1.dll
